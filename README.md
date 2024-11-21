@@ -17,12 +17,12 @@ Make sure that you have PHP 7.4 or higher installed on your system, along with C
    In your project directory, run the following command to install the SDK via Composer:
 
    ```bash
-   composer require rashed/payplus-sdk
+   composer require rarashed/payplus-sdk
    ```
    #To configure the SDK, provide your Payplus API credentials and set the appropriate URLs for testing or production environments.
 
    ```bash
-   use Rashed\PayplusSdk\Payplus;
+   use RaRashed\PayplusSdk\Payplus;
    ```
    
 #Define constants for currency and URLs
