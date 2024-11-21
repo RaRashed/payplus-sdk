@@ -19,6 +19,10 @@ Make sure that you have PHP 7.4 or higher installed on your system, along with C
    ```bash
    composer require rarashed/payplus-sdk
    ```
+   #OR
+   ```bash
+   composer require rarashed/payplus-sdk --no-plugins
+   ```
    #To configure the SDK, provide your Payplus API credentials and set the appropriate URLs for testing or production environments.
 
    ```bash
