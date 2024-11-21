@@ -1,10 +1,10 @@
 {
-    "name": "rashed/payplus-sdk",
+    "name": "rarashed/payplus-sdk",
     "description": "payplus gateway sdk for payment pages",
     "type": "composer-plugin",
     "autoload": {
         "psr-4": {
-            "Rashed\\PayplusSdk\\": "src/"
+            "RaRashed\\PayplusSdk\\": "src/"
         }
     },
     "authors": [

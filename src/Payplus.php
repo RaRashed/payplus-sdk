@@ -1,6 +1,6 @@
 <?php
 
-namespace Rashed\PayplusSdk;
+namespace RaRashed\PayplusSdk;
 
 class Payplus
 {
